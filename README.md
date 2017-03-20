@@ -1,12 +1,22 @@
-# Front End Training
+# Front End Training Course Outline
 
-## About Instructor
+## Workplace setup
 
-Andy Chen
-- Javascript Champion, MERN stack Perf Evangelist, Gophar, Open Sources Projects Contributer
-- Went over 20 hackathons to hack and mentor
-- Email: amazingandyyy@gmail.com
-- Follow me on [github]('https://github.com/amazingandyyy')
+    - Browser
+        - Safari, Chrome, Firefox
+        - use [Chrome](https://www.google.com/chrome/browser/desktop/)
+            - Extensions
+                - ColorPicker
+                - JSON Viewer
+    - IDE
+        - Sublime, Atom, Brackets
+        - use [VSCode](https://code.visualstudio.com/)
+    - Terminal
+        - Windows: GitHub -> Linux Terminal
+        - Mac: [iTerm2](https://www.iterm2.com/)
+    - Utility
+        - Lumen
+        - Spectacle
 
-## About This course
-- Course Repo is on [github]('')
+## HTML
+
