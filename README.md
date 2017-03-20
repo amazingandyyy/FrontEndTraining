@@ -1,22 +1,14 @@
-# Front End Training Course Outline
+![](https://i.imgur.com/PP7USjs.png)
+This course will cover the minimum knowledge to understand how software and web development works.
 
-## Workplace setup
+### Course structure
+- [Front End Training Course](https://github.com/amazingandyyy/FrontEndTraining)
+    - [Marterials](https://github.com/amazingandyyy/FrontEndTraining/blob/master/MATERIALS.md)
+    - [Syllabus](https://github.com/amazingandyyy/FrontEndTraining/blob/master/ABOUT.md)
 
-    - Browser
-        - Safari, Chrome, Firefox
-        - use [Chrome](https://www.google.com/chrome/browser/desktop/)
-            - Extensions
-                - ColorPicker
-                - JSON Viewer
-    - IDE
-        - Sublime, Atom, Brackets
-        - use [VSCode](https://code.visualstudio.com/)
-    - Terminal
-        - Windows: GitHub -> Linux Terminal
-        - Mac: [iTerm2](https://www.iterm2.com/)
-    - Utility
-        - Lumen
-        - Spectacle
-
-## HTML
-
+---
+### [Amazingandyyy](https://amazingandyyy.github.io), Andy Chen
+- Javascript Champion, MERN stack Perf Evangelist, Gopher, Open Sources Projects Contributor
+- Went over 20 hackathons to hack and mentor
+- Email: amazingandyyy@gmail.com
+- Follow me on [GitHub]('https://github.com/amazingandyyy')

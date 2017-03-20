@@ -1,19 +1,17 @@
 # Syllabus/About
 
-## About the Author
----
-### Andy Chen
+## Author
+### Amazingandyyy, Andy Chen
 - Javascript Champion, MERN stack Perf Evangelist, Gopher, Open Sources Projects Contributor
 - Went over 20 hackathons to hack and mentor
 - Email: amazingandyyy@gmail.com
 - Follow me on [GitHub]('https://github.com/amazingandyyy')
 
-## About This course
----
-### What is this course
+## Course
+### 1. What is this course
 - This course will cover the minimum knowledge to understand how software and web development works.
 
-### Who should take this course or read this material
+### 2. Who should take this course or read this material
 - Complete newbie to web development
 - Those who already learned something on some free online resources such as codecademy or freecodecamp, but got lost and still have no confidence to make an idea into a simple website
 - CS-related major students who want to jump into software development and pursue a CS-related job as career
@@ -21,10 +19,12 @@
 - For those who needs to cooperate with developer teammates or friends
 - Creator, Maker, Entrepreneur who is active to learn and create things
 
-### Workload
+### 3. Workload
 - This training course is designed to have 6 hrs in-person lecture + 5hrs of online homework in a weekly basic, totally 5 weeks
 - This course supports to be intensive, but if you follow me and complete this course, I promise you will have no confidence to take part in any Hackathons and start to learn web development on your own behavior
 
-### Course files
+### 4. Course files
 - Course outline, sample codes and all resources are on this [GitHub repo](https://github.com/amazingandyyy/FrontEndTraining)
+
+![](https://i.imgur.com/PP7USjs.png)
 
