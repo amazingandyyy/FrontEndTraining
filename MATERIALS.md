@@ -96,7 +96,7 @@ There are hundreds of `<tags>`, but you only need to rememebr the following tags
 - The most common used Tags
 
     |tags | Description 
-    --- | --- | ---
+    --- | ---
     `<html></html>`  | html tag
     `<head></head>`  | head tag
     `<title></title>`  | title tag
