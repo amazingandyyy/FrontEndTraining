@@ -1,13 +1,15 @@
 # Syllabus/About
 
-## Author
+[amazingandyyy](https://amazingandyyy.github.io) > [Front End Training Course](https://github.com/amazingandyyy/FrontEndTraining) > [Materials](https://github.com/amazingandyyy/FrontEndTraining/blob/master/ABOUT.md)
+
+## *Author
 ### Amazingandyyy, Andy Chen
 - Javascript Champion, MERN stack Perf Evangelist, Gopher, Open Sources Projects Contributor
 - Went over 20 hackathons to hack and mentor
 - Email: amazingandyyy@gmail.com
 - Follow me on [GitHub]('https://github.com/amazingandyyy')
 
-## Course
+## *Course
 ### 1. What is this course
 - This course will cover the minimum knowledge to understand how software and web development works.
 

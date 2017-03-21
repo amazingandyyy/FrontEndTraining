@@ -11,4 +11,4 @@ This course will cover the minimum knowledge to understand how software and web 
 - Javascript Champion, MERN stack Perf Evangelist, Gopher, Open Sources Projects Contributor
 - Went over 20 hackathons to hack and mentor
 - Email: amazingandyyy@gmail.com
-- Follow me on [GitHub]('https://github.com/amazingandyyy')
+- Follow me on [GitHub](https://github.com/amazingandyyy)
