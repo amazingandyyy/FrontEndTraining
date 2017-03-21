@@ -288,6 +288,10 @@ experience what CSS can do and what it works with HTML
 
 ## <a name="js1"></a> Chapter 7 Basic Javascript [[menu]](#top)
 - What is javascript
+    - so called JS
+    - JS is a programming language
+    - Browser can undertand JS
+- Try console log in chrome
 
 
 ## <a name="jquery1"></a> Chapter 8 jQuery [[menu]](#top)
