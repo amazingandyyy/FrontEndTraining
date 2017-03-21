@@ -1,10 +1,22 @@
+<a name="top"></a> 
+
 [amazingandyyy](https://amazingandyyy.github.io) > [Front End Training Course](https://github.com/amazingandyyy/FrontEndTraining) > [Materials](https://github.com/amazingandyyy/FrontEndTraining/blob/master/MATERIALS.md)
+ 
+* [Chapter 1 Workplace setup](#setup)
+* [Chapter 2 Web = HTML + CSS + JS](#web)
+* [Chapter 3 Basic HTML](#html1)
+* [Chapter 4 Basic CSS](#css1)
+* [Chapter 5 Advance HTML](#html2)
+* [Project Build a XYZ introduction website](#uni_index)
+* [Chapter 6 Bootstrap](#bootstrap)
+* [Chapter 7 Basic Javascript](#js1)
+* [Chapter 8 Basic jQuery](#jquery1)
 
-* [Chapter 1 Workplace setup](#ch1)
-* [Chapter 2 Web = HTML + CSS + JS](#ch2)
-* [Chapter 3 Basic HTML](#ch3)
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
 
-## <a name="ch1"></a> Chapter 1 Workplace setup
+## <a name="setup"></a> Chapter 1 Workplace setup [[menu]](#top)
 
 ### 1. Browser
 - Safari, Chrome, Firefox
@@ -47,8 +59,10 @@
 - About Docker
     - Preference setting
     - Customize
-
-## <a name="ch2"></a> Chapter 2 Web = HTML + CSS + JS
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+## <a name="web"></a> Chapter 2 Web = HTML + CSS + JS [[menu]](#top)
 - what is HTML/CSS/JS
     - comparison
         - Microsoft Word Software can read `.doc` and `.docx`
@@ -57,6 +71,7 @@
     - HTML is just a file format, popular used in mordern browser
     - CSS is just a file format, popular used in mordern browser
     - JS is just a file format, popular used in mordern browser
+
 -  HTML/CSS/JS work together
     format        | What's for                    | comparison  |
     --- | --- | ---
@@ -64,7 +79,11 @@
     CSS           | styles those contents         | bold  |
     Javascript    | behavior                      | alert |
 
-## <a name="ch3"></a> Chapter 3 Basic HTML
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+
+## <a name="html1"></a> Chapter 3 Basic HTML [[menu]](#top)
 ### 1. What is HTML
 - HTML stands for **H**yper **T**ext **M**arkup **L**anguage
 - HTML describes the structure of Web pages using to show content in browser
@@ -121,15 +140,158 @@ There are hundreds of `<tags>`, but you only need to rememebr the following tags
     `<input type="checkbox"/>` | <dl><input type="checkbox"/></dl> | checkbox
     `<input type="date"/>` | <dl><input type="date"/></dl> | checkbox
 
-#### Chapter 1 Resources: 
+#### Chapter 3 Resources:  [[menu]](#top)
 - [https://www.w3schools.com/html/html_intro.asp](https://www.w3schools.com/html/html_intro.asp)
 
 
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+
+## <a name="css1"></a> Chapter 4 Basic CSS [[menu]](#top)
+
+### 1. What is CSS
+- CSS stands for **C**ascading **S**tyle **S**heets
+- CSS describes how HTML elements are to be displayed in browser
+- CSS saves a lot of work. It can control the layout of multiple web pages all at once
+
+### 2. CSS is human-readable
+experience what CSS can do and what it works with HTML 
+- add a flag to HTML element
+    - class
+    - id
+    - inline style
+- CSS can control Size
+    - change text size
+    - change `div` size
+    - change image size
+- CSS can control Color
+    - change text color
+    - change background-color of a `div`
+
+### 3. CSS for styling
+- Style text
+    - size
+    - color
+    - font family
+        - change font family
+        - use google font
+            - external css files
+            - import google fonts
+    - text-decoration
+    - text-align
+
+- Style `div`
+    - size
+    - color
+    - border
+        - color
+        - size
+        - radius
+    - box-shadow
+
+- Style behaviors
+    - :hover
+    - :active
+    - :visited
+    - cursor
+
+### 4. CSS for position
+- control div
+    - margin
+    - padding
+
+    ![](https://i.imgur.com/p9or22x.png)
+
+    - float
+    - center
 
 
+#### Chapter 4 Resources:  [[menu]](#top)
+- [https://www.w3schools.com/html/css_intro.asp](https://www.w3schools.com/html/css_intro.asp)
 
 
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
 
+## <a name="html2"></a> Chapter 5 Advance HTML [[menu]](#top)
+### 1. More about HTML tags
+- Link
+    - link to a page
+    - `target="_blank"`, open in new tag
+    - link to `#id`
+    - `mailto`, send a email
+        - customize content
+
+- Form
+    - `input` tags
+        - text
+        - date
+        - color
+        - file
+        - radio
+        - checkbox
+        - Google for more
+
+    - `button` tags
+        - style button tags
+            - remove outline
+            - remove border
+
+- List
+    - unorder list
+        - `<ul></ul>`
+    - order list
+        - `<ol></ol>`
+    - `<li>`
+
+- Table
+    - `<table>`
+    - Google it is the best way
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+
+## <a name="uni_index"></a> Project:  Build a XYZ introduction website
+### Hints
+- design in a graphic software or powerpoint/keynote
+- You may need `table` and `img` tags
+- use `h1` and other tags
+- push to `GitHub`
+- styling button and some details
+
+### demo
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+
+## <a name="bootstrap"></a> Chapter 6 Bootstrap [[menu]](#top)
+### 1. What is [bootstrap](https://getbootstrap.com/)
+- It is a CSS Framework
+    - Framework is a big package of codes that others can use
+- It is just an huge External CSS file
+    - overwrite Bootstrap
+    - [bootswatch](https://bootswatch.com/)
+- Why bootstrap
+    - icons
+    - elements
+        - navbar
+            - read document
+        - Jumbotron
+    - grids
+- Many more CSS Framework
+    - Foundation
+    - Semantic
+    - Skeleton
+    - ...
+
+## <a name="js1"></a> Chapter 7 Basic Javascript [[menu]](#top)
+- What is javascript
+
+
+## <a name="jquery1"></a> Chapter 8 jQuery [[menu]](#top)
+- What is jQuery
 
 
 
