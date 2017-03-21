@@ -7,10 +7,14 @@
 * [Chapter 3 Basic HTML](#html1)
 * [Chapter 4 Basic CSS](#css1)
 * [Chapter 5 Advance HTML](#html2)
-* [Project Build a XYZ introduction website](#uni_index)
+* [Project: Build a XYZ introduction website](#uni_index)
 * [Chapter 6 Bootstrap](#bootstrap)
 * [Chapter 7 Basic Javascript](#js1)
-* [Chapter 8 Basic jQuery](#jquery1)
+* [Chapter 8 Javascript Data Structure](#js_data)
+* [Chapter 9 Basic jQuery](#jquery1)
+* [Project: Trigger changing color](#color_tri)
+* [Chapter 10 JSON](#json)
+* [Chapter 11 HTTP and AJAX](#http_req)
 
 <!--
 ########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
@@ -97,9 +101,9 @@
     - [Facebook](https://www.facebook.com/)
     ![](https://i.imgur.com/429EzCD.png)
     - [Youtube](https://www.youtube.com/)
-    ![](https://i.imgur.com/rJkZAT3.png)
+    ![](https://i.imgur.com/HQb1GT8.png)
     - [GitHub](https://github.com/)
-    ![](https://i.imgur.com/06sysPl.png)
+    ![](https://i.imgur.com/uJyL9PO.png)
 
 ### 4. What you are going to learn about HTML
 > You need to learn many tags and understand what they are
@@ -280,7 +284,7 @@ experience what CSS can do and what it works with HTML
             - read document
         - Jumbotron
     - grids
-- Many more CSS Framework
+- Many more CSS Frameworks
     - Foundation
     - Semantic
     - Skeleton
@@ -288,14 +292,147 @@ experience what CSS can do and what it works with HTML
 
 ## <a name="js1"></a> Chapter 7 Basic Javascript [[menu]](#top)
 - What is javascript
-    - so called JS
-    - JS is a programming language
+    - so-called JS, Vanilla JS
     - Browser can undertand JS
+    - JS is a programming language
+        - try some in browser:
+            - console.log()
+            - Date()
+            - alert()
+            - prompt()
+        - Declare variable
+        - Assign value: Assignment Operator
+        - Operator
+        - functions
+        - input/output
 - Try console log in chrome
+- select and manipulate elements in DOM
+    - when triggering `onClick`, run the `function`
+    - samples
+        - step 1: function & console.log
+        ```javascript
+            function log(){
+                console.log("Hey! Yo")
+            }
+        ```
+        - step 2: `.` dot notation
+        ```javascript
+            function double(){
+                var el = document.querySelectorAll('.css-selector');
+                console.log("Value is",el)
+                var val = el.value;
+                console.log("Value is",val)
+            }
+        ```
+        - final step
+        ```javascript
+            function double(){
+                var el = document.querySelectorAll('.css-selector');
+                var val = el.value;
+                console.log("double is ",val*2)
+            }
+        ```
 
+#### Chapter 7 Resources:
+- [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com/)
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+## <a name="js_data"></a> Chapter 8 Javascript Data Structure [[menu]](#top)
+- Data type
+    - string
+    - number
+    - boolean
+    - array
+    - object
+- Play with object
+    - Concept of DOM
+    - Understand `.` dot notation
 
-## <a name="jquery1"></a> Chapter 8 jQuery [[menu]](#top)
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+## <a name="jquery1"></a> Chapter 9 Basic jQuery [[menu]](#top)
 - What is jQuery
+    - jQuery is a JavaScript Library.
+    - jQuery make select and manipulate elements 10x easier
+    - import jQuery
+- select and manipulate elements in DOM
+    - From JS to jQuery
+        - Selector
+        ```javascript
+        // javascript
+        document.querySelectorAll('.css-selector');
+        
+        // jQeury
+        $('.css-selector')
+        ```
+        - Get value
+        ```javascript
+        // javascript
+        document.querySelectorAll('.css-selector').value;
+        
+        // jQeury
+        $('.css-selector').val()
+        ```
+        - more on [YouMightNotNeedJquery](http://youmightnotneedjquery.com/)
+
+- The order matters
+    - About .ready()
+    ```javascript
+    $(document).ready(function(){
+        // do something
+    });
+    ```
+- More extroardinary effect:
+    - toggle className:
+    ```javascript
+    $(el).fadeIn();
+    ```
+    - Set CSS
+    ```javascript
+    $(el).css('border-width', '20px');
+    ```
+    - Fade Element In!?
+    ```javascript
+    $(el).fadeIn();
+    ```
+
+#### Chapter 9 Resources:
+- [http://youmightnotneedjquery.com/](http://youmightnotneedjquery.com/)
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+
+## <a name="color_tri"></a> Project: Trigger changing color
+### Hints
+- you need jQuery to select an element
+- add a new className to the element
+- make the new className has different CSS style
+- build a reset button to remove the className
+
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+## <a name="json"></a> Chapter 10 JSON [[menu]](#top)
+- what is JSON
+    - JSON stands for **J**avaScript **O**bject **N**otation.
+    - JSON is a syntax for storing and exchanging data.
+    - JSON is text, written with JavaScript object notation.
+
+
+<!--
+########################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
+-->
+## <a name="http_req"></a> Chapter 11 HTTP and AJAX [[menu]](#top)
+- what is HTTP
+    - The Hypertext Transfer Protocol (HTTP) is designed to enable communications between clients and servers.
+    - HTTP works as a request-response protocol between a client and server.
+    - A web browser may be the client, and an application on a computer that hosts a web site may be the server.
+
+
+
+
 
 
 
