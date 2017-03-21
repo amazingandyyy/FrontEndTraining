@@ -94,7 +94,8 @@ HTML elements are wrap by a open tag and close tag, that's been said, 1 element 
 There are hundreds of `<tags>`, but you only need to rememebr the following tags
 
 - The most common used Tags
-    tags | Description 
+
+    |tags | Description 
     --- | --- | ---
     `<html></html>`  | html tag
     `<head></head>`  | head tag
@@ -108,7 +109,8 @@ There are hundreds of `<tags>`, but you only need to rememebr the following tags
     `<br />` | break a new line
     
 - bonus useful Tags
-    tags | result | Description 
+
+    |tags | result | Description 
     --- | --- | ---
     `<b>`Amazingandyyy`</b>` | **Amazingandyyy** | bold
     `<i>`Amazingandyyy`</i>` | *Amamzingandyyy* | italic

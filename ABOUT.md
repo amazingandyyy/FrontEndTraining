@@ -1,6 +1,6 @@
 # Syllabus/About
 
-[amazingandyyy](https://amazingandyyy.github.io) > [Front End Training Course](https://github.com/amazingandyyy/FrontEndTraining) > [Materials](https://github.com/amazingandyyy/FrontEndTraining/blob/master/ABOUT.md)
+[amazingandyyy](https://amazingandyyy.github.io) > [Front End Training Course](https://github.com/amazingandyyy/FrontEndTraining) > [Syllabus](https://github.com/amazingandyyy/FrontEndTraining/blob/master/ABOUT.md)
 
 ## *Author
 ### Amazingandyyy, Andy Chen
